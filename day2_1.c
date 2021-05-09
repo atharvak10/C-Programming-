@@ -7,9 +7,6 @@
 /*
  program to write "Welcome OM13 batch" on output screen.
 
- Author:Akshita, Sunbeam
- Date : 19th November 2020
-
 */
 
 // Header File Inclusion Area 
@@ -23,7 +20,7 @@
 int main(void)
 {
 
-        printf("Welcome OM13 Batch");  
+        printf("Welcome");  
         return 0;     
             //0 means it is successfully exited 
             //0 EXIT_SUCCESS
